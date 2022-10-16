@@ -116,7 +116,7 @@ def play(coord):
                     button[(x+i+i, y+j+j)].config(image=img[3])
 
 
-whiter = 1
+whiter = 20
 blackr = 20
 
 
